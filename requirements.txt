@@ -1,0 +1,9 @@
+langchain==0.1.17
+langchain_community==0.0.36
+langchain_openai==0.1.6
+langserve==0.1.1
+python-dotenv==1.0.1
+streamlit==1.31.1
+chroma-hnswlib==0.7.3
+chromadb==0.4.22
+pysqlite3-binary==0.5.2.post3
